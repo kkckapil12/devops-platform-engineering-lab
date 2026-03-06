@@ -1,12 +1,10 @@
-# DevOps Platform Engineering Lab
+# Hi 👋 I'm Kapil Chavan
 
-This repository contains real-world DevOps projects, Kubernetes troubleshooting scenarios, CI/CD pipelines, monitoring setups, and infrastructure automation.
-
-The goal of this project is to practice and demonstrate DevOps engineering skills used in production environments.
+DevOps Engineer passionate about building reliable cloud infrastructure, CI/CD pipelines, and Kubernetes platforms.
 
 ---
 
-## 🚀 Technologies Used
+## 🚀 DevOps Skills
 
 - Linux
 - Git
@@ -18,102 +16,47 @@ The goal of this project is to practice and demonstrate DevOps engineering skill
 - AWS
 - Prometheus
 - Grafana
-- GitOps (ArgoCD / Flux)
+- GitOps
 
 ---
 
-## 📂 Repository Structure
+## ☁ Cloud & Container Platforms
 
-devops-platform-engineering-lab/
-
-├── linux  
-├── docker  
-├── kubernetes  
-├── terraform  
-├── ansible  
-├── jenkins  
-├── aws  
-├── monitoring  
-├── gitops  
-
-├── docs  
-├── scripts  
-
-├── README.md  
-└── LICENSE  
-
----
-
-## ☸ Kubernetes Troubleshooting Scenarios
-
-This project includes Kubernetes troubleshooting scenarios commonly seen in production environments.
-
-Example scenarios:
-
-- Pod stuck in Pending state
-- CrashLoopBackOff errors
-- ImagePullBackOff issues
-- DNS resolution failures
-- PVC Pending issues
-- NetworkPolicy blocking traffic
-
-Each scenario includes:
-
-- Problem description
-- Root cause
-- Troubleshooting commands
-- Solution
-
----
-
-## ⚙ CI/CD Pipelines
-
-Examples included in this repository:
-
-- Jenkins pipelines
-- Docker image builds
-- Kubernetes deployments
-
----
-
-## 📊 Monitoring & Alerting
-
-Monitoring stack includes:
-
-- Prometheus
-- Grafana dashboards
-- Alert rules
-
-Example alerts:
-
-- High CPU usage
-- Pod restart alerts
-- Node memory pressure
-
----
-
-## 🏗 Infrastructure as Code
-
-Infrastructure provisioning using:
-
+- AWS
+- Kubernetes
+- Docker
 - Terraform
-- AWS cloud infrastructure
-- Kubernetes clusters
 
 ---
 
-## 🎯 Purpose
+## 🔧 DevOps Tools
 
-This repository is designed for:
-
-- DevOps learning
-- Kubernetes troubleshooting practice
-- DevOps interview preparation
-- Demonstrating real DevOps engineering skills
+| Category | Tools |
+|--------|------|
+Containers | Docker, Kubernetes |
+CI/CD | Jenkins |
+Infrastructure | Terraform |
+Configuration | Ansible |
+Monitoring | Prometheus, Grafana |
+Cloud | AWS |
 
 ---
 
-## 👨‍💻 Author
+## 📂 DevOps Projects
 
-Kapil Chavan  
-DevOps Engineer
+- DevOps Platform Engineering Lab
+- Kubernetes Troubleshooting Scenarios
+- CI/CD Pipelines with Jenkins
+- Infrastructure Automation with Terraform
+
+---
+
+## 📊 GitHub Stats
+
+![Kapil GitHub stats](https://github-readme-stats.vercel.app/api?username=kkckapil12&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/kkckapil12
